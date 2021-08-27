@@ -1,0 +1,3 @@
+4,spanner,wrench,hammer
+1,a,b,c,d
+3,toaster,iron
